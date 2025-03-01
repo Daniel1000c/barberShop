@@ -1,17 +1,20 @@
 <mxfile host="65bd71144e">
     <diagram id="Lp4Ej_ObH9iW5MV1s8UQ" name="Page-1">
-        <mxGraphModel dx="1626" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="666" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="BarberShop Ideas&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Goal: I want to create a barbershop website that lets the user schedule an appointment at the place of business. I want&amp;nbsp; to showacse what type of services this business provides and what type of payment methods are used when you register on the site.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="BarberShop Ideas&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Goal: I want to create a barbershop website that lets the user schedule an appointment at the place of business. I want&amp;nbsp; to showacse what type of services this business provides and what type of payment methods are used when you register on the site.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="230" width="450" height="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Form Goals&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I want the form to Prompt the user for First name, last name, email, phone number, date and time, and service that is provided by the company&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="Form Goals&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I want the form to Prompt the user for First name, last name, email, phone number, date and time, and service that is provided by the company&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="710" y="240" width="390" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Pointers:&lt;div&gt;I would disclude moving images to account for older smartphone.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Make sure that this website is mobile friendly first.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I would create form validation to avoid malicious scripts and making sure that the user can overlap with previous appointment times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create privacy policy, terms of service, and terms of use when it comes to collecting user information.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-                    <mxGeometry x="120" y="570" width="400" height="190" as="geometry"/>
+                <mxCell id="4" value="Pointers:&lt;div&gt;I would disclude moving images to account for older smartphone.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Make sure that this website is mobile friendly first.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I would create form validation to avoid malicious scripts and making sure that the user can overlap with previous appointment times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create privacy policy, terms of service, and terms of use when it comes to collecting user information.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create section for social media so that the customer can check out business social media when they first get on the page.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create a lanuage setting that accomdates customers from mulitple backgrounds when they come on to the page.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create accessibility guildelines for page so that the user can read the page with a page reader.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="570" width="400" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="670" width="400" height="270" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
