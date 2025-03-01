@@ -1,0 +1,43 @@
+# Node.js / npm
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/.yarn-cache/
+/package-lock.json
+/yarn.lock
+
+# PHP
+/vendor/
+/composer.phar
+/composer.lock
+/.idea/
+*.log
+*.sql
+*.sqlite
+*.tar
+*.gz
+
+# HTML, CSS, JavaScript
+/dist/
+/build/
+/public/
+/*.min.css
+/*.min.js
+/*.map
+*.css.map
+*.js.map
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Other temp files
+*.bak
+*.swp
+*.swo
